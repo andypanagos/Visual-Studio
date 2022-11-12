@@ -1,0 +1,19 @@
+﻿h1 {
+    color: white;
+    font-size: 4rem;
+    font-family: sans-serif;
+    text-align: inherit;
+    padding-left: 300px;
+}
+
+span {
+    opacity: 0;
+    transition: all 1s ease;
+    display: contents;
+}
+
+span.fade {
+    opacity: 1;
+}
+
+
